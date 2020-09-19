@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Blockchain with Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/md2eoseo/typechain.git",
+  "author": "md2eoseo <md2eoseo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
